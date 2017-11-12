@@ -9,7 +9,7 @@ describe('1 - Multiples of 3 and 5', () => {
     expect(problem_1(10)).toBe(23)
   })
 
-  test('returns 33 when maxNumber is 10', () => {
+  test('returns 33 when maxNumber is 11', () => {
     expect(problem_1(11)).toBe(33)
   })
 })
