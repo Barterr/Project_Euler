@@ -32,6 +32,4 @@ const isPrime = number => {
   return true
 }
 
-console.log(primeNumber(10001))
-
 module.exports = primeNumber
