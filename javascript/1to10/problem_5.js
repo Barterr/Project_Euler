@@ -26,6 +26,4 @@ const leastCommonMultiple = (a, b) => {
   return Math.abs(a * b) / greaterCommonDivisor(a, b)
 }
 
-console.log(smallestMultiple(20))
-
 module.exports = smallestMultiple
